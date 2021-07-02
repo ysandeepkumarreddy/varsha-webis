@@ -1396,7 +1396,7 @@ button {
 
 .body--portfolio .header__icon--email:after,
 .body--portfolio-single .header__icon--email:after {
-     background-image: url(../assets/icons/source/email-yellow.svg)
+     background-image: url(https://bendarby.co.uk/assets/icons/source/email-yellow.svg)
 }
 
 @media screen and (min-width: 900px) {
