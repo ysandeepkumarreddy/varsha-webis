@@ -1345,13 +1345,13 @@ button {
 
 .header__icon--next:after {
      content: "";
-     background-image: url(https://bendarby.co.uk/assets/icons/source/arrow-down-pink.svg.svg);
+     background-image: url(https://bendarby.co.uk/assets/icons/source/arrow-down-pink.svg);
      width: 44px;
      height: 44px
 }
 
 .body--about .header__icon--next:after {
-     background-image: url(../assets/icons/source/arrow-down-blue.svg)
+     background-image: url(https://bendarby.co.uk/assets/icons/source/arrow-down-blue.svg)
 }
 
 .header__icon--prev {
@@ -1367,14 +1367,14 @@ button {
 
 .header__icon--prev:after {
      content: "";
-     background-image: url(../assets/icons/source/arrow-up-blue.svg);
+     background-image: url(https://bendarby.co.uk/assets/icons/source/arrow-up-blue.svg);
      width: 44px;
      height: 44px
 }
 
 .body--portfolio .header__icon--prev:after,
 .body--portfolio-single .header__icon--prev:after {
-     background-image: url(../assets/icons/source/arrow-up-yellow.svg)
+     background-image: url(https://bendarby.co.uk/assets/icons/source/arrow-up-yellow.svg)
 }
 
 .header__icon--email {
@@ -1385,13 +1385,13 @@ button {
 
 .header__icon--email:after {
      content: "";
-     background-image: url(https://bendarby.co.uk/assets/icons/source/email-pink.svg.svg);
+     background-image: url(https://bendarby.co.uk/assets/icons/source/email-pink.svg);
      width: 31px;
      height: 31px
 }
 
 .body--about .header__icon--email:after {
-     background-image: url(../assets/icons/source/email-blue.svg)
+     background-image: url(https://bendarby.co.uk/assets/icons/source/email-blue.svg)
 }
 
 .body--portfolio .header__icon--email:after,
@@ -2653,7 +2653,7 @@ textarea.formitem {
 }
 
 .body--about .hero__title span:after {
-     background-image: url(../assets/img/brush-blue.svg)
+     background-image: url(https://bendarby.co.uk/assets/img/brush-blue.svg)
 }
 
 .body--portfolio .hero__title span:after,
@@ -2898,7 +2898,7 @@ textarea.formitem {
      top: 4px;
      z-index: -1;
      content: "";
-     background-image: url(../assets/icons/source/quotes-blue.svg);
+     background-image: url(https://bendarby.co.uk/assets/icons/source/quotes-blue.svg);
      background-size: contain;
      width: 50px;
      height: 50px
@@ -3292,7 +3292,7 @@ textarea.formitem {
      z-index: -1;
      transition: all linear 0.3s;
      content: "";
-     background-image: url(../assets/icons/source/menu-close-white.svg);
+     background-image: url(https://bendarby.co.uk/assets/icons/source/menu-close-white.svg);
      width: 36px;
      height: 36px
 }
